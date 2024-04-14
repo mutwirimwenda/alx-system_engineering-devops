@@ -30,3 +30,7 @@ A collection of bash scripts that perform basic shell commands.
     inside `/tmp` directory.
 13. [We are symbols, and inhabit symbols](./13-symbolic_link) - Create symbolic
     link to `/bin/ls`, named `__ls_`_ in the current working directory.
+14. [Copy HTML files](./14-copy_html) - Copy all the HTML files from
+    current working directory to the parent of the working directory, but only
+    copy files that did not exist in the parent of the working directory or were
+    newer than the versions in the parent of the working directory.
