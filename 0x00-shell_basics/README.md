@@ -12,3 +12,5 @@ A collection of bash scripts that perform basic shell commands.
    in a long format
 4. [Hidden files](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using the long format.
+5. [I love numbers](./5-listfilesdigitonly) - Display cwd files including
+   hidden in long format with user and group IDs displayed numerically
