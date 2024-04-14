@@ -26,3 +26,5 @@ A collection of bash scripts that perform basic shell commands.
 11. [Lists](./11-lists) - List files including hidden in the current directory
     and the parent of the working directory and the `/boot` directory
     (in this order), in long format.
+12. [File type](./12-file_type) - Print the type of the file named `iamafile`
+    inside `/tmp` directory.
