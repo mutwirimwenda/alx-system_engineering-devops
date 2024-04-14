@@ -22,3 +22,4 @@ A collection of bash scripts that perform basic shell commands.
    `/tmp/my_first_directory`.
 9. [Bye bye My first directory](./9-firstdirdeletion) - Delete directory
    `my_first_directory` that is in `/tmp` directory.
+10. [Back to the future](./10-back) - Change working directory to the previous.
