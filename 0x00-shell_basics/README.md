@@ -18,3 +18,5 @@ A collection of bash scripts that perform basic shell commands.
    in the `/tmp/` directory.
 7. [Betty in my first directory](./7-movethatfile) - Move file `betty` from
    `/tmp/` to `/tmp/my_first_directory`.
+8. [Bye bye Betty](./8-firstdelete) - Delete file `betty` from
+   `/tmp/my_first_directory`.
