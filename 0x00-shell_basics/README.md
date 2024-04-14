@@ -8,3 +8,5 @@ A collection of bash scripts that perform basic shell commands.
    directory.
 2. [There is no place like home](./2-bring_me_home) - Change the working
    directory to user’s home directory without using any shell variables.
+3. [The long format](./3-listfiles) - Display current directory contents
+   in a long format
