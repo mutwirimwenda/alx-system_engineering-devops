@@ -34,3 +34,5 @@ A collection of bash scripts that perform basic shell commands.
     current working directory to the parent of the working directory, but only
     copy files that did not exist in the parent of the working directory or were
     newer than the versions in the parent of the working directory.
+15. [Let’s move](./100-lets_move) - Move all files beginning with an uppercase
+    letter to the directory `/tmp/u`.
