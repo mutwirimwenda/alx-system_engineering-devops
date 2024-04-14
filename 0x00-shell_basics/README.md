@@ -14,3 +14,5 @@ A collection of bash scripts that perform basic shell commands.
    including hidden files (starting with `.`) using the long format.
 5. [I love numbers](./5-listfilesdigitonly) - Display cwd files including
    hidden in long format with user and group IDs displayed numerically
+6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
+   in the `/tmp/` directory.
