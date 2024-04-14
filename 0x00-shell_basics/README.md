@@ -28,3 +28,5 @@ A collection of bash scripts that perform basic shell commands.
     (in this order), in long format.
 12. [File type](./12-file_type) - Print the type of the file named `iamafile`
     inside `/tmp` directory.
+13. [We are symbols, and inhabit symbols](./13-symbolic_link) - Create symbolic
+    link to `/bin/ls`, named `__ls_`_ in the current working directory.
