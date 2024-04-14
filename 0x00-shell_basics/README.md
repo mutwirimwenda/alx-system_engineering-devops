@@ -9,10 +9,12 @@ A collection of bash scripts that perform basic shell commands.
 2. [There is no place like home](./2-bring_me_home) - Change the working
    directory to user’s home directory without using any shell variables.
 3. [The long format](./3-listfiles) - Display current directory contents
-   in a long format
+   in a long format.
 4. [Hidden files](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using the long format.
 5. [I love numbers](./5-listfilesdigitonly) - Display cwd files including
-   hidden in long format with user and group IDs displayed numerically
+   hidden in long format with user and group IDs displayed numerically.
 6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
    in the `/tmp/` directory.
+7. [Betty in my first directory](./7-movethatfile) - Move file `betty` from
+   `/tmp/` to `/tmp/my_first_directory`.
