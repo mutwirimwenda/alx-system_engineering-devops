@@ -21,4 +21,4 @@ A collection of bash scripts that perform basic shell commands.
 8. [Bye bye Betty](./8-firstdelete) - Delete file `betty` from
    `/tmp/my_first_directory`.
 9. [Bye bye My first directory](./9-firstdirdeletion) - Delete directory
-   `my_first_directory that is in `/tmp` directory.
+   `my_first_directory` that is in `/tmp` directory.
