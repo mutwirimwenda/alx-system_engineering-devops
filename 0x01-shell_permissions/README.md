@@ -37,3 +37,5 @@ A collection of bash scripts that handle users and
     and group owner to `staff` for all files and directories in the CWD.
 15. [Symbolic links](./101-symbolic_link_permissions) - Change owner and group
     owner of file `_hello`, a symbolic link to `vincent` and `staff`.
+16. [If only](./102-if_only) - Change owner of file `hello` to `betty`
+    only if it is owned by the user `guillaume`.
