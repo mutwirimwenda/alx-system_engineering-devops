@@ -24,3 +24,6 @@ A collection of bash scripts that handle users and
    without using commas in the script (so octal notation).
 10. [Look in the mirror](./10-mirror_permissions) - Set mode of file `hello` the
     same as `olleh`’s mode, both located in the cwd.
+11. [Directories](./11-directories_permissions) - Add execute permission to all
+    subdirectories of current directory for owner, group owner and all other
+    users without affecting regular files.
