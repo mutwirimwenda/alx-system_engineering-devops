@@ -7,3 +7,4 @@ A collection of bash scripts that handle users and
 1. [ Who am I](./1-who_am_i) - Print the effective username of the current user.
 2. [Groups](./2-groups) - Print all the groups the current user is part of.
 3. [New owner](./3-new_owner) - Change owner of file `hello` to user `betty`.
+4. [Empty!](./4-empty) - Create an empty file called `hello`.
