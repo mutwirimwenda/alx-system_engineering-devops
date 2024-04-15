@@ -29,3 +29,5 @@ A collection of bash scripts that handle users and
     users without affecting regular files.
 12. [More directories](./12-directory_permissions) - Create directory `my_dir`
     with permissions `751` in the working directory.
+13. [Change group](./13-change_group) - Change group owner to `school` for the
+    file `hello` in CWD.
