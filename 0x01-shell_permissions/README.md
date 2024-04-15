@@ -27,3 +27,5 @@ A collection of bash scripts that handle users and
 11. [Directories](./11-directories_permissions) - Add execute permission to all
     subdirectories of current directory for owner, group owner and all other
     users without affecting regular files.
+12. [More directories](./12-directory_permissions) - Create directory `my_dir`
+    with permissions `751` in the working directory.
