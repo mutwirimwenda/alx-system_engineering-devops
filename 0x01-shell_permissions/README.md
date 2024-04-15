@@ -35,3 +35,5 @@ A collection of bash scripts that handle users and
     file `hello` in CWD.
 14. [Owner and group](./100-change_owner_and_group) - Change owner to `vincent`
     and group owner to `staff` for all files and directories in the CWD.
+15. [Symbolic links](./101-symbolic_link_permissions) - Change owner and group
+    owner of file `_hello`, a symbolic link to `vincent` and `staff`.
