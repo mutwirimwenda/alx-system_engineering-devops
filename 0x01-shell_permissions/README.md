@@ -13,3 +13,6 @@ A collection of bash scripts that handle users and
 6. [Multiple permissions](./6-multiple_permissions) - Add execute permission to
    owner and group owner, and read permission to other users, to file `hello`
    located in the working directory.
+7. [Everybody!](./7-everybody) - Add execution permission to owner, group owner
+   and the other users, to the file `hello` located in the working directory
+   using symbolic notation and no commas.
