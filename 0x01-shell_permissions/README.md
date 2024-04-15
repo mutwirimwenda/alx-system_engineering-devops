@@ -8,3 +8,5 @@ A collection of bash scripts that handle users and
 2. [Groups](./2-groups) - Print all the groups the current user is part of.
 3. [New owner](./3-new_owner) - Change owner of file `hello` to user `betty`.
 4. [Empty!](./4-empty) - Create an empty file called `hello`.
+5. [Execute](./5-execute) - Add execute permission to owner of file `hello`
+   located in the working directory.
