@@ -20,4 +20,5 @@ A collection of bash scripts that handle users and
    in working directory to be: Owner has no permission at all
    Group has no permission at all and Other users have all the permissions.
    (No commas allowed in script - octal notation used)
-
+9. [John Doe](./9-John_Doe) - Set the mode of file hello in cwd to: `-rwxr-x-wx`
+   without using commas in the script (so octal notation).
