@@ -33,3 +33,5 @@ A collection of bash scripts that handle users and
     with permissions `751` in the working directory.
 13. [Change group](./13-change_group) - Change group owner to `school` for the
     file `hello` in CWD.
+14. [Owner and group](./100-change_owner_and_group) - Change owner to `vincent`
+    and group owner to `staff` for all files and directories in the CWD.
