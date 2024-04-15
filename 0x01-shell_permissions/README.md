@@ -10,3 +10,6 @@ A collection of bash scripts that handle users and
 4. [Empty!](./4-empty) - Create an empty file called `hello`.
 5. [Execute](./5-execute) - Add execute permission to owner of file `hello`
    located in the working directory.
+6. [Multiple permissions](./6-multiple_permissions) - Add execute permission to
+   owner and group owner, and read permission to other users, to file `hello`
+   located in the working directory.
