@@ -16,3 +16,8 @@ A collection of bash scripts that handle users and
 7. [Everybody!](./7-everybody) - Add execution permission to owner, group owner
    and the other users, to the file `hello` located in the working directory
    using symbolic notation and no commas.
+8. [James Bond](./8-James_Bond) - Set the permission to file `hello`
+   in working directory to be: Owner has no permission at all
+   Group has no permission at all and Other users have all the permissions.
+   (No commas allowed in script - octal notation used)
+
