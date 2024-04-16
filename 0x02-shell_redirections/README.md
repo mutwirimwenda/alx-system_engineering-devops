@@ -14,3 +14,5 @@ A collection of bash scripts performing
    `/etc/passwd` and `/etc/hosts`.
 4. [Last lines of a file](./4-lastlines) - Display last 10 lines
     of `/etc/passwd`.
+5. [I'd prefer the first ones actually](./5-firstlines) - Display first 10 lines
+    of `/etc/passwd`.
