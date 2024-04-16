@@ -8,3 +8,5 @@ A collection of bash scripts performing
 0. [Hello World](./0-hello_world) - Print `Hello, World`, followed by a new
    line to the standard output.
 1. [Confused smiley](./1-confused_smiley) - Display a confused smiley `"(Ôo)'`.
+2. [Let's display a file](./2-hellofile) - Display the content of the
+   `/etc/passwd` file.
