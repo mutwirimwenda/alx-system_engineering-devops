@@ -12,3 +12,5 @@ A collection of bash scripts performing
    `/etc/passwd` file.
 3. [What about 2?](./3-twofiles) - Display the content of
    `/etc/passwd` and `/etc/hosts`.
+4. [Last lines of a file](./4-lastlines) - Display last 10 lines
+    of `/etc/passwd`.
