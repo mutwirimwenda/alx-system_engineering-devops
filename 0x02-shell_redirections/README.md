@@ -10,3 +10,5 @@ A collection of bash scripts performing
 1. [Confused smiley](./1-confused_smiley) - Display a confused smiley `"(Ôo)'`.
 2. [Let's display a file](./2-hellofile) - Display the content of the
    `/etc/passwd` file.
+3. [What about 2?](./3-twofiles) - Display the content of
+   `/etc/passwd` and `/etc/hosts`.
