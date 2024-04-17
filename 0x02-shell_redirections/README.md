@@ -17,3 +17,6 @@ A collection of bash scripts performing
 5. [I'd prefer the first ones actually](./5-firstlines) - Display first 10 lines
     of `/etc/passwd`.
 6. [Line #2](./iacta) - Display the third line of the file `iacta` inside CWD.
+7.
+8. [Save current state of directory](./8-cwd_state) - Overwrite into the file
+    `ls_cwd_content` the result of the command `ls -la`.
