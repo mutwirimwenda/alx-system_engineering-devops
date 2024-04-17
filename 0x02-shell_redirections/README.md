@@ -16,3 +16,4 @@ A collection of bash scripts performing
     of `/etc/passwd`.
 5. [I'd prefer the first ones actually](./5-firstlines) - Display first 10 lines
     of `/etc/passwd`.
+6. [Line #2](./iacta) - Display the third line of the file `iacta` inside CWD.
