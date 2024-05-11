@@ -41,7 +41,7 @@ A collection of bash scripts that perform basic shell commands.
 16. [Clean Emacs](./101-clean_emacs) - Delete all files in the current working
     directory that end with the character `~`.
 17. [Tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
-    `welcome/to/school` in the current directory.
+    `welcome/to/school/` in the current directory.
 18. [Life is a series of commas, not periods](./103-commas) - List all files
     and directories in CWD, separated by commas, directory names ending with
     slash, listing alpha ordered, except for `.` and `..` listed at beginning
