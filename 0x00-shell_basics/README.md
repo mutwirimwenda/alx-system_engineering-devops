@@ -19,7 +19,7 @@ A collection of bash scripts that perform basic shell commands.
 6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
    in the `/tmp/` directory.
 7. [Betty in my first directory](./7-movethatfile) - Move file `betty` from
-   `/tmp/` to `/tmp/my_first_directory`.
+   `/tmp/` to `/tmp/my_first_directory/`.
 8. [Bye bye Betty](./8-firstdelete) - Delete file `betty` from
    `/tmp/my_first_directory`.
 9. [Bye bye My first directory](./9-firstdirdeletion) - Delete directory
