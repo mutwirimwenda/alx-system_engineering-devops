@@ -14,7 +14,7 @@ A collection of bash scripts that perform basic shell commands.
    in a long format.
 4. [Hidden files](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using the long format.
-5. [I love numbers](./5-listfilesdigitonly) - Display cwd files including
+5. [I love numbers](./5-listfilesdigitonly) - Display CWD files including
    hidden in long format with user and group IDs displayed numerically.
 6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
    in the `/tmp/` directory.
@@ -43,7 +43,7 @@ A collection of bash scripts that perform basic shell commands.
 17. [Tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
     `welcome/to/school` in the current directory.
 18. [Life is a series of commas, not periods](./103-commas) - List all files
-    and directories in cwd, separated by commas, directory names ending with
+    and directories in CWD, separated by commas, directory names ending with
     slash, listing alpha ordered, except for `.` and `..` listed at beginning
     Use only digits and letters to sort; Digits come first and listing ends
     with a new line.
