@@ -44,6 +44,6 @@ A collection of bash scripts that perform basic shell commands.
     `welcome/to/school/` in the current directory.
 18. [Life is a series of commas, not periods](./103-commas) - List all files
     and directories in CWD, separated by commas, directory names ending with
-    slash, listing alpha ordered, except for `.` and `..` listed at beginning
-    using only digits and letters to sort; digits first end listing
-    with a new line.
+    slash, listing alpha ordered - except for `.` and `..` which should be
+    listed at the beginning. Use only digits and letters to sort; with digits
+    coming first and end listing with a new line.
