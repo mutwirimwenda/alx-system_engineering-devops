@@ -47,3 +47,6 @@ A collection of bash scripts that perform basic shell commands.
     slash, listing alpha ordered - except for `.` and `..` which should be
     listed at the beginning. Use only digits and letters to sort; with digits
     coming first and end listing with a new line.
+19. [File type: School](./school.mgc) - Create a magic file `school.mgc` that
+    can be used with the command `file` to detect School data files.
+    School data files always contain the string `SCHOOL` at `offset 0`.
