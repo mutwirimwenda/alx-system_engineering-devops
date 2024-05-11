@@ -37,7 +37,7 @@ A collection of bash scripts that perform basic shell commands.
     copy files that did not exist in the parent of the working directory or were
     newer than the versions in the parent of the working directory.
 15. [Let’s move](./100-lets_move) - Move all files beginning with an uppercase
-    letter to the directory `/tmp/u`.
+    letter to the directory `/tmp/u/`.
 16. [Clean Emacs](./101-clean_emacs) - Delete all files in the current working
     directory that end with the character `~`.
 17. [Tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
