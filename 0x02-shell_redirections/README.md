@@ -22,3 +22,5 @@ A collection of bash scripts performing
     `ls_cwd_content` the result of the command `ls -la` on CWD.
 9. [Duplicate last line](./9-duplicate_last_line) - Duplicate last line of file
     iacta located inside the CWD.
+10. [No more javascript](./10-no_more_js) - Delete all regular files
+    (not directories) with a `.js` extension present in CWD and its subfolders.
