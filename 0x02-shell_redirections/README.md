@@ -20,3 +20,5 @@ A collection of bash scripts performing
 7.
 8. [Save current state of directory](./8-cwd_state) - Redirect into the file
     `ls_cwd_content` the result of the command `ls -la` on CWD.
+9. [Duplicate last line](./9-duplicate_last_line) - Duplicate last line of file
+    iacta located inside the CWD.
