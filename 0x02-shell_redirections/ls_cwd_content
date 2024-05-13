@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 mutwirimwenda mutwirimwenda 4096 May 13 12:06 .
+drwxrwxr-x 6 mutwirimwenda mutwirimwenda 4096 May 11 10:52 ..
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   30 Apr 16 20:38 0-hello_world
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   28 Apr 16 20:45 1-confused_smiley
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   28 Apr 16 20:49 2-hellofile
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   39 Apr 16 20:59 3-twofiles
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   29 Apr 16 21:10 4-lastlines
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   29 Apr 16 21:13 5-firstlines
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   40 Apr 17 11:58 6-third_line
+-rwxrw-r-- 1 mutwirimwenda mutwirimwenda   36 Apr 17 12:37 8-cwd_state
+-rw-rw-r-- 1 mutwirimwenda mutwirimwenda  801 May 11 10:48 iacta
+-rw-rw-r-- 1 mutwirimwenda mutwirimwenda    0 May 13 12:06 ls_cwd_content
+-rw-rw-r-- 1 mutwirimwenda mutwirimwenda  972 May 13 12:06 README.md
