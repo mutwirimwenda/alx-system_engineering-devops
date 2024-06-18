@@ -42,3 +42,5 @@ A collection of bash scripts performing
      and 3 lines after them in the file `/etc/passwd`.
 17. [I hate bins](./17-hidethisword) - Display all lines in `/etc/passwd` that
      do not contain the pattern `bin`.
+18. [Letters only please](./18-letteronly) - Display all lines of
+    `/etc/ssh/sshd_config` starting with a letter, case insesitive.
