@@ -3,7 +3,7 @@
 > [Go back](../README.md)
 
 A collection of bash scripts performing
-[I/O](https://en.wikipedia.org/wiki/Input/output) redirections and filtering
+[I/O](https://en.wikipedia.org/wiki/Input/output) [redirections](https://en.wikipedia.org/wiki/Redirection_(computing)) and [filtering](https://en.wikipedia.org/wiki/Filter_(software))
 
 0. [Hello World](./0-hello_world) - Print `Hello, World`, followed by a new
    line to the standard output.
