@@ -40,3 +40,5 @@ A collection of bash scripts performing
      contain the pattern `bin` in the file `/etc/passwd`.
 16. [What's next?](./16-whatsnext) - Display lines containing the pattern `root`
      and 3 lines after them in the file `/etc/passwd`.
+17. [I hate bins](./17-hidethisword) - Display all lines in `/etc/passwd` that
+     do not contain the pattern `bin`.
