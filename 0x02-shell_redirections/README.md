@@ -30,3 +30,5 @@ A collection of bash scripts performing
 11. [Don't just count your directories, make your directories count]
     (./11-directories) - Count number of directories and sub-directories in CWD.
     Ignore current and parent directories but count hidden directories.
+12. [What’s new](./12-newest_files) - Display the 10 newest files in CWD,
+    one file per line, sorted from the newest to the oldest.
