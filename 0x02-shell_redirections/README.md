@@ -32,3 +32,5 @@ A collection of bash scripts performing
     Ignore current and parent directories but count hidden directories.
 12. [What’s new](./12-newest_files) - Display the 10 newest files in CWD,
     one file per line, sorted from the newest to the oldest.
+13. [Being unique is better than being perfect](./13-unique) - Print only words
+     that appear exactly once, sorted
