@@ -3,7 +3,9 @@
 > [Go back](../README.md)
 
 A collection of bash scripts performing
-[I/O](https://en.wikipedia.org/wiki/Input/output) [redirections](https://en.wikipedia.org/wiki/Redirection_(computing)) and [filtering](https://en.wikipedia.org/wiki/Filter_(software))
+[I/O](https://en.wikipedia.org/wiki/Input/output)
+[redirections](https://en.wikipedia.org/wiki/Redirection_(computing)) and
+[filtering](https://en.wikipedia.org/wiki/Filter_(software))
 
 0. [Hello World](./0-hello_world) - Print `Hello, World`, followed by a new
    line to the standard output.
@@ -16,7 +18,8 @@ A collection of bash scripts performing
     of `/etc/passwd`.
 5. [I'd prefer the first ones actually](./5-firstlines) - Display first 10 lines
     of `/etc/passwd`.
-6. [Line #2](./iacta) - Display the third line of the file `iacta` inside CWD.
+6. [Line #2](./6-third_line) - Display the third line of the file `iacta`
+   inside the CWD.
 7.
 8. [Save current state of directory](./8-cwd_state) - Redirect into the file
     `ls_cwd_content` the result of the command `ls -la` on CWD.
