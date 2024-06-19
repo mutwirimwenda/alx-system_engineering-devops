@@ -56,4 +56,3 @@ A collection of bash scripts performing
      and directories displayed (not the entire path). Hidden files listed. One
      file name per line. The listing ends with a new line. No use of `basename`,
      `grep`, `egrep`, `fgrep` or `rgrep`.
-
