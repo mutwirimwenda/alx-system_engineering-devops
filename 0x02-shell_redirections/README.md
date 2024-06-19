@@ -48,3 +48,4 @@ A collection of bash scripts performing
     `Z` and `e` respectively.
 20. [Without `C`, you would live in `hiago`](./20-hiago) - Remove all letters
      `c` and `C` from input.
+21. [esreveR](./21-reverse) - Reverse input.
