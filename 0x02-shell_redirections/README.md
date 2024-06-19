@@ -49,3 +49,5 @@ A collection of bash scripts performing
 20. [Without `C`, you would live in `hiago`](./20-hiago) - Remove all letters
      `c` and `C` from input.
 21. [esreveR](./21-reverse) - Reverse input.
+22. [DJ Cut Killer](./22-users_and_homes) - Display all users and their home
+     directories, sorted by users (based on the `/etc/passwd` file).
