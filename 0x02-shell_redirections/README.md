@@ -51,3 +51,9 @@ A collection of bash scripts performing
 21. [esreveR](./21-reverse) - Reverse input.
 22. [DJ Cut Killer](./22-users_and_homes) - Display all users and their home
      directories, sorted by users (based on the `/etc/passwd` file).
+23. [Empty casks make the most noise](./100-empty_casks) - Find all empty files
+     and directories in CWD and all sub-directories. Only the names of the files
+     and directories displayed (not the entire path). Hidden files listed. One
+     file name per line. The listing ends with a new line. No use of `basename`,
+     `grep`, `egrep`, `fgrep` or `rgrep`.
+
