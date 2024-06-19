@@ -44,3 +44,5 @@ A collection of bash scripts performing
      do not contain the pattern `bin`.
 18. [Letters only please](./18-letteronly) - Display all lines of
     `/etc/ssh/sshd_config` starting with a letter, case insesitive.
+19. [A to Z](./19-AZ) - Replace all characters `A` and `c` from input to
+    `Z` and `e` respectively.
