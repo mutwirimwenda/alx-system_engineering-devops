@@ -46,3 +46,5 @@ A collection of bash scripts performing
     `/etc/ssh/sshd_config` starting with a letter, case insesitive.
 19. [A to Z](./19-AZ) - Replace all characters `A` and `c` from input to
     `Z` and `e` respectively.
+20. [Without `C`, you would live in `hiago`](./20-hiago) - Remove all letters
+     `c` and `C` from input.
