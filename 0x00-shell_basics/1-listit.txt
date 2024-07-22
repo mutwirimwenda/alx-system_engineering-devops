@@ -1,0 +1,6 @@
+# Display contents list of current directory.
+# Pseudo-code
+
+BEGIN
+	OUTPUT content list of current directory
+END
