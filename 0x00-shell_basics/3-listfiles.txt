@@ -1,0 +1,6 @@
+# Display current directory contents in a long format
+# Pseudo-code
+
+BEGIN
+	LS option long format
+END
