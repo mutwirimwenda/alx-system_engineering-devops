@@ -1,0 +1,6 @@
+# Change working directory to the user’s home directory.
+# Pseudo-code
+
+BEGIN
+	CD user's home directory
+END
