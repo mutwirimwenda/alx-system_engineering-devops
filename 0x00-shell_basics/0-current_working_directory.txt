@@ -1,6 +1,6 @@
 # Print the absolute path name of the current working directory.
 # Pseudo-code
 
-START
+BEGIN
 	OUTPUT current working directory
 END
