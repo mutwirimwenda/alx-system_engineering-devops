@@ -1,0 +1,6 @@
+# Change the working directory to the previous one.
+# Pseudo-code
+
+BEGIN
+	CD option PREVIOUS
+END
