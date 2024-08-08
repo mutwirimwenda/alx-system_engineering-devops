@@ -1,0 +1,6 @@
+# Print the type of the file iamafile located inside /tmp.
+# Pseudo-code
+
+BEGIN
+	TYPE argument PATH_TO_IAMAFILE
+END
