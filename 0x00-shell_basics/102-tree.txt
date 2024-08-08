@@ -1,0 +1,6 @@
+# Create a directory tree welcome/, welcome/to/ and welcome/to/school
+# Pseudo-code
+
+BEGIN
+	MKDIR option MAKE_PARENT_DIRECTORIES FULL_PATH_TO_TARGET_DIRS
+END
