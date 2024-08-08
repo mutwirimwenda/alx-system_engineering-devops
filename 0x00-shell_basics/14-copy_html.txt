@@ -1,0 +1,6 @@
+# Copy all html files from current to parent only if newer or non-existent.
+# Pseudo-code
+
+BEGIN
+	cp option UPDATE=OLDER arguments SOURCE_FILES DESTINATION_DIR
+END
