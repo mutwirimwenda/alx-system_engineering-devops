@@ -1,0 +1,6 @@
+# Delete directory my_first_directory that is in the /tmp directory.
+# Pseudo-code
+
+BEGIN
+	RM -r PATH to my_first_directory
+END
