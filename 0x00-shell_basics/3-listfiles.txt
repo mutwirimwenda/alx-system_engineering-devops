@@ -2,5 +2,5 @@
 # Pseudo-code
 
 BEGIN
-	LS option long format
+	LS option long
 END
