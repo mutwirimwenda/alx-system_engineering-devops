@@ -1,0 +1,6 @@
+# Delete all files in current working directory that end with character ~.
+# Pseudo-code
+
+BEGIN
+	RM argument WILDCARD_ALL~
+END
