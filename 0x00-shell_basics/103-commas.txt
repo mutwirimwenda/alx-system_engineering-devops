@@ -1,0 +1,6 @@
+# List all contents separated by commas with classification of type
+# Pseudo-code
+
+BEGIN
+	LS options ALL DIR_INDICATOR COMMA_SEPARATOR
+END
