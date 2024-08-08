@@ -1,0 +1,6 @@
+# Display all current directory contents, long format numeric user, group IDs.
+# Pseudo-code
+
+BEGIN
+	LS option LONG option ALL option NUMERIC-ID
+END
