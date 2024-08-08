@@ -1,0 +1,6 @@
+# Delete the file betty located inside /tmp/my_first_directory
+# Pseudo-code
+
+BEGIN
+	rm PATH to file betty
+END
