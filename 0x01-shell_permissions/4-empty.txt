@@ -1,0 +1,6 @@
+# Create an empty file called hello.
+# Pseudo-code
+
+BEGIN
+	TOUCH FILE_NAME
+END
