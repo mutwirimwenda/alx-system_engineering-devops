@@ -1,0 +1,6 @@
+# Set the mode of file hello the same as file olleh’s mode.
+# Pseudo-code
+
+BEGIN
+	CHMOD reference=REFERENCE_FILE FILENAME
+END
