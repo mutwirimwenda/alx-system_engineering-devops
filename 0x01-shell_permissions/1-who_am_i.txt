@@ -2,5 +2,5 @@
 # Pseudo-code
 
 BEGIN
-	WHOAMI
+	OUTPUT username of current user
 END
