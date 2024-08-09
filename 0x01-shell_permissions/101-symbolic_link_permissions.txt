@@ -1,0 +1,6 @@
+# Change owner and group owner of symlink _hello to vincent and staff
+# Pseudo-code
+
+BEGIN
+	CHOWN option SYMLINK OWNER:GROUP_OWNER FILE_NAME
+END
