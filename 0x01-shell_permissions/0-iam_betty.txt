@@ -1,0 +1,6 @@
+# Switch current user to the user betty
+# Pseudo-code
+
+BEGIN
+	SU user USERNAME
+END
