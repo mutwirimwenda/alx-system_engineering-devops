@@ -1,0 +1,8 @@
+# Change owner to vincent and group owner to staff for all files and directories
+# 	 in the working directory.
+
+# Pseudo-code
+
+BEGIN
+	CHOWN option RECURSIVE OWNER:GROUP_OWNER FILES
+END
