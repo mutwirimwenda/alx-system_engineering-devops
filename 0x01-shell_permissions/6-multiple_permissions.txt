@@ -1,0 +1,7 @@
+# Add execute permission to owner, group owner, read permission to other users
+#     to the file hello.
+# Pseudo-code
+
+BEGIN
+	CHMOD ADD_EXECUTE_OWNER_AND_GROUP, ADD_READ_OTHERS FILENAME
+END
