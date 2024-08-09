@@ -1,0 +1,6 @@
+# Add execute permission to all subdirectories of current dir for all users.
+# Pseudo-code
+
+BEGIN
+	CHMOD option RECURSIVE ADD_EXECUTE_ONLY_DIRS PATH_TO_CURRENT_DIR
+END
