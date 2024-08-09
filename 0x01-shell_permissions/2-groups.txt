@@ -1,0 +1,6 @@
+# Print all the groups the current user is part of.
+# Pseudo-code
+
+BEGIN
+	OUTPUT groups for user
+END
