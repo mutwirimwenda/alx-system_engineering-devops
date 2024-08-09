@@ -1,0 +1,6 @@
+# Add execute permission to the owner of the file hello.
+# Pseudo-code
+
+BEGIN
+	CHMOD MODE_ADD_OWNER_EXECUTE FILENAME
+END
