@@ -1,0 +1,6 @@
+# Print the effective username of the current user.
+# Pseudo-code
+
+BEGIN
+	WHOAMI
+END
