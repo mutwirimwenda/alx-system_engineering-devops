@@ -1,0 +1,6 @@
+# Create a directory called my_dir with permissions 751.
+# Pseudo-code
+
+BEGIN
+	MKDIR mode=751 DIR_NAME
+END
