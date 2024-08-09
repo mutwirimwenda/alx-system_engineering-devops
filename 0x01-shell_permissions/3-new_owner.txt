@@ -1,0 +1,6 @@
+# Change owner of file hello to the user betty.
+# Pseudo-code
+
+BEGIN
+	CHOWN owner NAME_OF_OWNER file FILENAME
+END
