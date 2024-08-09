@@ -1,0 +1,6 @@
+# Set the mode of  file hello to -rwxr-x-wx.
+# Pseudo-code
+
+BEGIN
+	CHMOD octal_mode 753 FILENAME
+END
