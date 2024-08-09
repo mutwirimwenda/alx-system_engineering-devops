@@ -1,0 +1,6 @@
+# Change owner of file hello to betty only if it is owned by the user guillaume.
+# Pseudo-code
+
+BEGIN
+	CHOWN option FROM=OWNER NEW_OWNER FILE_NAME
+END
