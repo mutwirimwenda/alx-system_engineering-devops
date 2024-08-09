@@ -1,0 +1,6 @@
+# Change the group owner to school for the file hello.
+# Pseudo-code
+
+BEGIN
+	CHOWN :GROUP_OWNER FILENAME
+END
