@@ -1,6 +1,6 @@
 # Shell Basics
 
-> [Go back](../README.md)
+> [home](../README.md)
 
 A collection of bash scripts that perform basic shell commands.
 
