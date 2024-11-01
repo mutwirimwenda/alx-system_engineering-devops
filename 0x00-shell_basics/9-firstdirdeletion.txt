@@ -2,5 +2,5 @@
 # Pseudo-code
 
 BEGIN
-	RM -r PATH to my_first_directory
+	RM option RECURSIVE PATH/to/my_first_directory
 END

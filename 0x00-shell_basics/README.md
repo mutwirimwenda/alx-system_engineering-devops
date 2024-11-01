@@ -22,8 +22,8 @@ A collection of bash scripts that perform basic shell commands.
    `/tmp` to `/tmp/my_first_directory`.
 8. [8-firstdelete](./8-firstdelete) - Delete file `betty` from
    `/tmp/my_first_directory`.
-9. [Bye bye My first directory](./9-firstdirdeletion) - Delete directory
-   `my_first_directory/` that is in `/tmp/` directory.
+9. [9-firstdirdeletion](./9-firstdirdeletion) - Delete directory
+   `my_first_directory` which is inside `/tmp`.
 10. [Back to the future](./10-back) - Change working directory to the previous.
 11. [Lists](./11-lists) - List files including hidden in the current directory
     and the parent of the working directory and the `/boot` directory
