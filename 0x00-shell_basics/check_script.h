@@ -18,6 +18,12 @@ fi
 first_line=$(head -n 1 "$filename")
 line_count=$(wc -l < "$filename")
 
+# Check if the file is executable
+if [ ! -x "$filename" ]; then
+    echo "The file '$filename' is not executable."
+    exit 1
+fi
+
 # Check conditions
 if [[ "$first_line" == "#!/bin/bash" && "$line_count" -eq 2 ]]; then
     echo "The file '$filename' satisfies project requirements."
