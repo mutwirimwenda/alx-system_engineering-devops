@@ -2,5 +2,5 @@
 # Pseudo-code
 
 BEGIN
-	OUTPUT content list of current directory
+	output content list of current directory
 END
