@@ -25,9 +25,8 @@ A collection of bash scripts that perform basic shell commands.
 9. [9-firstdirdeletion](./9-firstdirdeletion) - Delete directory
    `my_first_directory` which is inside `/tmp`.
 10. [10-back](./10-back) - Change working directory to the previous one.
-11. [Lists](./11-lists) - List files including hidden in the current directory
-    and the parent of the working directory and the `/boot` directory
-    (in this order), in long format.
+11. [11-lists](./11-lists) - List all files in CWD, its parent and the `/boot` directory
+    (in order), in long format.
 12. [File type](./12-file_type) - Print the type of the file named `iamafile`
     inside `/tmp` directory.
 13. [We are symbols, and inhabit symbols](./13-symbolic_link) - Create symbolic

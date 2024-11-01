@@ -1,6 +1,6 @@
-# List all files in current, parent and /boot directories.
+# List all files in CWD, its parent and `/boot` in long format.
 # Pseudo-code
 
 BEGIN
-	LS option ALL arguments CURRENT_DIR PARENT_DIR BOOT_DIR
+	LS option ALL args CWD PARENT_CWD BOOT_DIR
 END
