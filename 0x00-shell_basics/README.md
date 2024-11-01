@@ -10,7 +10,7 @@ A collection of bash scripts that perform basic shell commands.
    directory.
 2. [2-bring_me_home](./2-bring_me_home) - Change the working
    directory to user’s home directory.
-3. [The long format](./3-listfiles) - Display current directory contents
+3. [3-listfiles](./3-listfiles) - Display current directory contents
    in a long format.
 4. [Hidden files](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using the long format.
