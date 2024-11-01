@@ -14,8 +14,8 @@ A collection of bash scripts that perform basic shell commands.
    in a long format.
 4. [4-listmorefiles](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using long format.
-5. [I love numbers](./5-listfilesdigitonly) - Display CWD files including
-   hidden in long format with user and group IDs displayed numerically.
+5. [5-listfilesdigitonly](./5-listfilesdigitonly) - Display CWD files including
+   hidden ones in long format with user and group IDs displayed numerically.
 6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
    in the `/tmp/` directory.
 7. [Betty in my first directory](./7-movethatfile) - Move file `betty` from
