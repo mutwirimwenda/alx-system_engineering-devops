@@ -33,8 +33,8 @@ A collection of bash scripts that perform basic shell commands.
     link to `/bin/ls`, named `__ls__` inside CWD.
 14. [14-copy_html](./14-copy_html) - Copy all HTML files in CWD to its parent
     only if they did not exist in parent or are a newer version.
-15. [Let’s move](./100-lets_move) - Move all files beginning with an uppercase
-    letter to the directory `/tmp/u/`.
+15. [100-lets_move](./100-lets_move) - Move all files beginning with an uppercase
+    letter to the directory `/tmp/u`.
 16. [Clean Emacs](./101-clean_emacs) - Delete all files in the current working
     directory that end with the character `~`.
 17. [Tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
