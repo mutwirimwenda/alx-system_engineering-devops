@@ -2,5 +2,5 @@
 # Pseudo-code
 
 BEGIN
-	OUTPUT current working directory
+	output current working directory
 END
