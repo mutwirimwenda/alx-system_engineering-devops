@@ -38,11 +38,11 @@ A collection of bash scripts that perform basic shell commands.
 16. [101-clean_emacs](./101-clean_emacs) - Delete all files in CWD ending with `~`.
 17. [102-tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
     `welcome/to/school/` in CWD.
-18. [Life is a series of commas, not periods](./103-commas) - List all files
+18. [103-commas](./103-commas) - List all files
     and directories in CWD, separated by commas, directory names ending with
     slash, listing alpha ordered - except for `.` and `..` which should be
     listed at the beginning. Use only digits and letters to sort; with digits
     coming first and end listing with a new line.
-19. [File type: School](./school.mgc) - Create a magic file `school.mgc` that
+19. [school.mgc](./school.mgc) - Create a magic file `school.mgc` that
     can be used with the command `file` to detect School data files.
     School data files always contain the string `SCHOOL` at `offset 0`.
