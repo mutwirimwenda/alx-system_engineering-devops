@@ -35,8 +35,7 @@ A collection of bash scripts that perform basic shell commands.
     only if they did not exist in parent or are a newer version.
 15. [100-lets_move](./100-lets_move) - Move all files beginning with an uppercase
     letter to the directory `/tmp/u`.
-16. [Clean Emacs](./101-clean_emacs) - Delete all files in the current working
-    directory that end with the character `~`.
+16. [101-clean_emacs](./101-clean_emacs) - Delete all files in CWD ending with `~`.
 17. [Tree](./102-tree) - Create directories `welcome/`, `welcome/to/` and
     `welcome/to/school/` in the current directory.
 18. [Life is a series of commas, not periods](./103-commas) - List all files
