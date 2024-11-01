@@ -27,8 +27,8 @@ A collection of bash scripts that perform basic shell commands.
 10. [10-back](./10-back) - Change working directory to the previous one.
 11. [11-lists](./11-lists) - List all files in CWD, its parent and the `/boot` directory
     (in order), in long format.
-12. [File type](./12-file_type) - Print the type of the file named `iamafile`
-    inside `/tmp` directory.
+12. [12-file_type](./12-file_type) - Print the file type of file `iamafile` located
+    inside `/tmp`.
 13. [We are symbols, and inhabit symbols](./13-symbolic_link) - Create symbolic
     link to `/bin/ls`, named `__ls_`_ in the current working directory.
 14. [Copy HTML files](./14-copy_html) - Copy all the HTML files from
