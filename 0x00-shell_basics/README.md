@@ -12,8 +12,8 @@ A collection of bash scripts that perform basic shell commands.
    directory to user’s home directory.
 3. [3-listfiles](./3-listfiles) - Display current directory contents
    in a long format.
-4. [Hidden files](./4-listmorefiles) - Display current directory contents
-   including hidden files (starting with `.`) using the long format.
+4. [4-listmorefiles](./4-listmorefiles) - Display current directory contents
+   including hidden files (starting with `.`) using long format.
 5. [I love numbers](./5-listfilesdigitonly) - Display CWD files including
    hidden in long format with user and group IDs displayed numerically.
 6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
