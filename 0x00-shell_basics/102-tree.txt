@@ -1,4 +1,4 @@
-# Create a directory tree welcome/, welcome/to/ and welcome/to/school
+# Create a directory tree `welcome/to/school/`.
 # Pseudo-code
 
 BEGIN
