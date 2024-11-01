@@ -1,6 +1,6 @@
-# Create directory named my_first_directory in the /tmp/ directory.
+# Create directory `my_first_directory` in `/tmp/`.
 # Pseudo-code
 
 BEGIN
-	MKDIR PATH to my_first_directory
+	MKDIR PATH/to/my_first_directory
 END

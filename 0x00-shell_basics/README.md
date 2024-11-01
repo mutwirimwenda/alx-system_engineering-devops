@@ -16,8 +16,8 @@ A collection of bash scripts that perform basic shell commands.
    including hidden files (starting with `.`) using long format.
 5. [5-listfilesdigitonly](./5-listfilesdigitonly) - Display CWD files including
    hidden ones in long format with user and group IDs displayed numerically.
-6. [Welcome](./6-firstdirectory) - Create directory named `my_first_directory`
-   in the `/tmp/` directory.
+6. [6-firstdirectory](./6-firstdirectory) - Create directory `my_first_directory`
+   in `/tmp/`.
 7. [Betty in my first directory](./7-movethatfile) - Move file `betty` from
    `/tmp/` to `/tmp/my_first_directory/`.
 8. [Bye bye Betty](./8-firstdelete) - Delete file `betty` from
