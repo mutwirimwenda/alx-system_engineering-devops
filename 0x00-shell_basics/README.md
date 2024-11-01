@@ -29,8 +29,8 @@ A collection of bash scripts that perform basic shell commands.
     (in order), in long format.
 12. [12-file_type](./12-file_type) - Print the file type of file `iamafile` located
     inside `/tmp`.
-13. [We are symbols, and inhabit symbols](./13-symbolic_link) - Create symbolic
-    link to `/bin/ls`, named `__ls_`_ in the current working directory.
+13. [13-symbolic_link](./13-symbolic_link) - Create symbolic
+    link to `/bin/ls`, named `__ls__` inside CWD.
 14. [Copy HTML files](./14-copy_html) - Copy all the HTML files from
     current working directory to the parent of the working directory, but only
     copy files that did not exist in the parent of the working directory or were

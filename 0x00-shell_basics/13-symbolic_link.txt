@@ -1,6 +1,6 @@
-# Create a symbolic link to /bin/ls, named __ls__.
+# Create a symbolic link to `/bin/ls`, named `__ls__` inside CWD.
 # Pseudo-code
 
 BEGIN
-	LN option SYMBOLIC_LINK TARGET LINK_NAME
+	LN option SYM_LINK TARGET LINK_NAME
 END
