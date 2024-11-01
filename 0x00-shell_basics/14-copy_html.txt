@@ -1,6 +1,6 @@
-# Copy all html files from current to parent only if newer or non-existent.
+# Copy all html files from CWD to its parent only if newer or non-existent.
 # Pseudo-code
 
 BEGIN
-	cp option UPDATE=OLDER arguments SOURCE_FILES DESTINATION_DIR
+	CP option UPDATE arguments SOURCE_FILES DESTINATION_DIR
 END
